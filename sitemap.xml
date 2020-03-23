@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://felberj.ch/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felberj.ch/posts/macos-global-emacs-keybindings/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felberj.ch/posts/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felberj.ch/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://felberj.ch/tags/</loc>
+  </url>
+  
+</urlset>
