@@ -6,9 +6,28 @@
     <description>Recent content in Categories on felberj.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2020 17:55:30 +0100</lastBuildDate>
     
 	<atom:link href="https://felberj.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>emacs</title>
+      <link>https://felberj.ch/categories/emacs/</link>
+      <pubDate>Mon, 23 Mar 2020 17:55:30 +0100</pubDate>
+      
+      <guid>https://felberj.ch/categories/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macos</title>
+      <link>https://felberj.ch/categories/macos/</link>
+      <pubDate>Mon, 23 Mar 2020 17:55:30 +0100</pubDate>
+      
+      <guid>https://felberj.ch/categories/macos/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -13,6 +13,8 @@
 <meta property='og:type' content='website'><meta property='article:section' content='Posts'><meta property='og:updated_time' content='2020-03-23T17:55:30&#43;01:00'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@felberj'><meta name='twitter:creator' content='@felberj'>
 
 
+<link href="https://felberj.ch/index.xml" rel="alternate" type="application/rss+xml" title="felberj.ch" />
+
 <link rel="stylesheet" href="/css/style.css"/><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -69,9 +71,26 @@
     <article>
       <div class="subtitle tags is-6 is-pulled-right">
         
+        
+<a class="subtitle is-6" href="/tags/emacs">#emacs</a>
+
+
+
+  
+  | <a class="subtitle is-6" href="/tags/macos">#macos</a>
+  
+
+        
       </div>
       <h2 class="subtitle is-6 date">March 23, 2020</h2>
-      <h1 class="title"><a href="https://felberj.ch/posts/macos-global-emacs-keybindings/">MacOS Global Emacs Keybindings</a></h1>
+      <h1 class="title"><a href="https://felberj.ch/posts/macos-global-emacs-keybindings/">MacOS Global Emacs Keybindings
+
+  
+    
+  
+    
+  
+</a></h1>
       <div class="content">
         To enable Emacs like keybindings globally on the operating system, edit ~/Library/KeyBindings/DefaultKeyBinding.dict to inlcude something like this:
 /* ~/Library/KeyBindings/DefaultKeyBinding.dict */ { /* Additional Emacs bindings */ &quot;~f&quot; = &quot;moveWordForward:&quot;; &quot;~b&quot; = &quot;moveWordBackward:&quot;; &quot;~&lt;&quot; = &quot;moveToBeginningOfDocument:&quot;; &quot;~&gt;&quot; = &quot;moveToEndOfDocument:&quot;; &quot;~v&quot; = &quot;pageUp:&quot;; &quot;~d&quot; = &quot;deleteWordForward:&quot;; &quot;~^h&quot; = &quot;deleteWordBackward:&quot;; &quot;~\010&quot; = &quot;deleteWordBackward:&quot;; /* Option-backspace */ &quot;~\177&quot; = &quot;deleteWordBackward:&quot;; /* Option-delete */ /* Escape should really be complete: */ &quot;\033&quot; = &quot;complete:&quot;; /* Escape */ } Then reboot the system.

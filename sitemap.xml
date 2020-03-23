@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://felberj.ch/categories/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felberj.ch/tags/emacs/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felberj.ch/categories/emacs/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://felberj.ch/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felberj.ch/tags/macos/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felberj.ch/categories/macos/</loc>
     <lastmod>2020-03-23T17:55:30+01:00</lastmod>
   </url>
   
@@ -18,11 +43,8 @@
   </url>
   
   <url>
-    <loc>https://felberj.ch/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://felberj.ch/tags/</loc>
+    <lastmod>2020-03-23T17:55:30+01:00</lastmod>
   </url>
   
 </urlset>
