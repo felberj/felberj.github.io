@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on felberj.ch</title>
-    <link>https://felberj.ch/categories/</link>
+    <link>https://www.felberj.ch/categories/</link>
     <description>Recent content in Categories on felberj.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2020 17:55:30 +0100</lastBuildDate>
     
-	<atom:link href="https://felberj.ch/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.felberj.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>emacs</title>
-      <link>https://felberj.ch/categories/emacs/</link>
+      <link>https://www.felberj.ch/categories/emacs/</link>
       <pubDate>Mon, 23 Mar 2020 17:55:30 +0100</pubDate>
       
-      <guid>https://felberj.ch/categories/emacs/</guid>
+      <guid>https://www.felberj.ch/categories/emacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>macos</title>
-      <link>https://felberj.ch/categories/macos/</link>
+      <link>https://www.felberj.ch/categories/macos/</link>
       <pubDate>Mon, 23 Mar 2020 17:55:30 +0100</pubDate>
       
-      <guid>https://felberj.ch/categories/macos/</guid>
+      <guid>https://www.felberj.ch/categories/macos/</guid>
       <description></description>
     </item>
     

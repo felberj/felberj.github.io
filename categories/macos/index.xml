@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>macos on felberj.ch</title>
-    <link>https://felberj.ch/categories/macos/</link>
+    <link>https://www.felberj.ch/categories/macos/</link>
     <description>Recent content in macos on felberj.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2020 17:55:30 +0100</lastBuildDate>
     
-	<atom:link href="https://felberj.ch/categories/macos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.felberj.ch/categories/macos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MacOS Global Emacs Keybindings</title>
-      <link>https://felberj.ch/posts/macos-global-emacs-keybindings/</link>
+      <link>https://www.felberj.ch/posts/macos-global-emacs-keybindings/</link>
       <pubDate>Mon, 23 Mar 2020 17:55:30 +0100</pubDate>
       
-      <guid>https://felberj.ch/posts/macos-global-emacs-keybindings/</guid>
+      <guid>https://www.felberj.ch/posts/macos-global-emacs-keybindings/</guid>
       <description>To enable Emacs like keybindings globally on the operating system, edit ~/Library/KeyBindings/DefaultKeyBinding.dict to inlcude something like this:
 /* ~/Library/KeyBindings/DefaultKeyBinding.dict */ { /* Additional Emacs bindings */ &amp;quot;~f&amp;quot; = &amp;quot;moveWordForward:&amp;quot;; &amp;quot;~b&amp;quot; = &amp;quot;moveWordBackward:&amp;quot;; &amp;quot;~&amp;lt;&amp;quot; = &amp;quot;moveToBeginningOfDocument:&amp;quot;; &amp;quot;~&amp;gt;&amp;quot; = &amp;quot;moveToEndOfDocument:&amp;quot;; &amp;quot;~v&amp;quot; = &amp;quot;pageUp:&amp;quot;; &amp;quot;~d&amp;quot; = &amp;quot;deleteWordForward:&amp;quot;; &amp;quot;~^h&amp;quot; = &amp;quot;deleteWordBackward:&amp;quot;; &amp;quot;~\010&amp;quot; = &amp;quot;deleteWordBackward:&amp;quot;; /* Option-backspace */ &amp;quot;~\177&amp;quot; = &amp;quot;deleteWordBackward:&amp;quot;; /* Option-delete */ /* Escape should really be complete: */ &amp;quot;\033&amp;quot; = &amp;quot;complete:&amp;quot;; /* Escape */ } Then reboot the system.</description>
     </item>
